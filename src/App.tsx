@@ -78,7 +78,7 @@ function App() {
       borderColor: 'border-blue-400/30',
       hoverColor: 'hover:border-blue-400/60',
       iconColor: 'text-blue-400',
-      link: 'https://example.com/study-mode',
+      link: 'https://biovit.netlify.app',
       features: ['Peer-reviewed papers', 'Citation tools', 'Research methodology']
     },
     {
