@@ -25,7 +25,7 @@ function App() {
 
   const walkthroughSteps = [
     {
-      title: "Welcome to Research Hub",
+      title: "Welcome to Dr.researcher",
       subtitle: "Your Personal Research Companion",
       description: "Master research methodologies, maintain laboratory standards, and build your academic portfolio with precision and excellence.",
       glpStandards: [
