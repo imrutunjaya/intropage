@@ -379,11 +379,11 @@ function App() {
           </div>
           
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-thin text-white mb-6 tracking-tight">
-            Choose Your Research Mode
+            Choose Your Mode
           </h1>
           
           <p className="text-lg sm:text-xl text-white/60 max-w-3xl mx-auto leading-relaxed font-light px-4">
-            Select the mode that best fits your current research needs and objectives
+            Select the mode that best fits your current needs and objectives
           </p>
         </div>
 
@@ -465,7 +465,7 @@ function App() {
               </h3>
               
               <p className="text-white/50 text-sm leading-relaxed font-light">
-                Customize your own research environment with specific tools and workflows
+                Customize your own environment with specific tools and workflows
               </p>
             </div>
           </div>
@@ -489,11 +489,11 @@ function App() {
           </div>
           <div className="flex items-center space-x-2">
             <Award className="w-4 h-4" strokeWidth={1} />
-            <span>Academic Grade</span>
+            <span>Grade</span>
           </div>
           <div className="flex items-center space-x-2">
             <Globe className="w-4 h-4" strokeWidth={1} />
-            <span>Global Access</span>
+            <span>Access</span>
           </div>
         </div>
       </div>
