@@ -91,7 +91,7 @@ function App() {
       borderColor: 'border-emerald-400/30',
       hoverColor: 'hover:border-emerald-400/60',
       iconColor: 'text-emerald-400',
-      link: 'https://example.com/research-mode',
+      link: 'https://drbioinformatics.netlify.app/',
       features: ['Data analysis tools', 'Collaboration space', 'Publication support']
     },
     {
@@ -104,7 +104,7 @@ function App() {
       borderColor: 'border-purple-400/30',
       hoverColor: 'hover:border-purple-400/60',
       iconColor: 'text-purple-400',
-      link: 'https://example.com/advanced-mode',
+      link: 'https://researchhome.netlify.app/',
       features: ['AI-powered insights', 'Custom workflows', 'Priority support']
     }
   ];
